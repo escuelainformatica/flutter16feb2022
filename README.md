@@ -24,4 +24,11 @@ git clone https://github.com/escuelainformatica/flutter16feb2022.git
 * Una vez copiado, la herramienta va a entender que hay un repositorio en la nube y todo lo demas se puede hacer 
 directamente en el IDE
 
+* para subir cambios
+
+1) agregar o quitar documentos al git.
+2) luego, hacer un commit (y agregar un comentario)
+3) y luego hacer un push.
+
+Si quiero hacer el camino contrario, se hace un pull (update project)
 
